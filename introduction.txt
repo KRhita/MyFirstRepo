@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+My name is Rhita, and I am a learner in the ALX program with an interest in technology and continuous learning. I am currently developing my skills in Git and GitHub to better manage projects and collaborate with others.
+This repository is part of my learning journey as I build strong foundations in version control and software development.
