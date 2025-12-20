@@ -1,4 +1,2 @@
 # MyFirstRepo
-introduction.txt.
-Brief Introduction About Myself
-Added introduction file
+this is my first repository created as part of GitHub learning task
